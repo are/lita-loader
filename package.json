@@ -1,0 +1,29 @@
+{
+  "name": "lita-loader",
+  "version": "1.0.0",
+  "description": "Webpack loader for literary Javascript programming",
+  "main": "src/index.js",
+  "dependencies": {
+    "lita": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/are1000/lita-loader.git"
+  },
+  "keywords": [
+    "literary",
+    "javascript",
+    "webpack",
+    "loader"
+  ],
+  "author": "Artur Wojciechowski <me@iama.re> (http://iama.re)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/are1000/lita-loader/issues"
+  },
+  "homepage": "https://github.com/are1000/lita-loader#readme"
+}
