@@ -1,10 +1,10 @@
 {
   "name": "lita-loader",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Webpack loader for literary Javascript programming",
   "main": "src/index.js",
   "dependencies": {
-    "lita": "^1.0.2"
+    "lita": "^1.0.4"
   },
   "devDependencies": {},
   "scripts": {
